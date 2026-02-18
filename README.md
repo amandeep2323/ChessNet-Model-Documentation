@@ -1,5 +1,5 @@
 # ♟️ ChessNet — Training Journey V1→V4
-# A AlphaZero-Style Neural Network
+# AlphaZero-Style Neural Network
 
 An AlphaZero-inspired chess neural network trained on Stockfish-generated data. Iteratively improved across 4 versions — from a heavily overfitting baseline to a well-regularized final model.
 
